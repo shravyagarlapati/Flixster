@@ -34,7 +34,7 @@ Stretch: Add a rounded corners for the images using the Picasso transformations.
 ## Video Walkthrough
 Here's a walkthrough of the ToDo App:
 
-<img src='http://imgur.com/yC8I5TE' title='Flixster App Video Walkthrough' width='' alt='Flixster App Video Walkthrough' />
+<img src='http://i.imgur.com/yC8I5TE.gif' title='Flixster App Video Walkthrough' width='' alt='Flixster App Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
